@@ -53,8 +53,8 @@ a:hover {
 }
 
 .previous {
- background-color:black ;
- color: #0B9B5B;
+ background-color:red ;
+ color: white;
  float: left;
  font-size: 36px;
 }
